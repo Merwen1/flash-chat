@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139795339342",
+    "project_id": "flash-chat-c3b13",
+    "storage_bucket": "flash-chat-c3b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139795339342:android:a2cc0f8a36130df8374b1f",
+        "android_client_info": {
+          "package_name": "com.Merwen1.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139795339342-jpandm3dcdscol94egso63punj1of77d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9AQ-kBxD6HBwimJppZSkjDbyY0PWdJyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139795339342-jpandm3dcdscol94egso63punj1of77d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
