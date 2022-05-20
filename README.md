@@ -1,16 +1,9 @@
-# flash_chat
+# Flash Chat ⚡️
 
-A new Flutter project.
+This is a modern messaging app where users can sign up and log in to chat.✔️
 
-## Getting Started
+Flash Chat is integrated with Firebase!!🔥
 
-This project is a starting point for a Flutter application.
+It is using Firebase Cloud Firestore as well as the Firebase authentication package🔑 to equip the app with a cloud-based NoSQL database and secure authentication methods.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flash Chat also includes beautiful Hero Animations and Custom Animations🤩 as well as concept of Mixins, Streams and Scrolling functionality in the Flutter Apps.✔️
